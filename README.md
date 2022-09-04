@@ -3,7 +3,7 @@ Hi 👋 My name is Eemil Aspholm
 
 I am studying software development as my minor in LUT University. Currently learning Full Stack development (React, Redux, Node.js, MongoDB, GraphQL and TypeScript)
 
-* 🌍  I'm based in Finland
+* 🌍  I'm based in Finland, Lappeenranta
 * ✉️  You can contact me at [Eemil.Aspholm@gmail.com](mailto:Eemil.Aspholm@gmail.com)
 
 ### Skills
