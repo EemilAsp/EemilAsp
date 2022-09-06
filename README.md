@@ -1,4 +1,4 @@
-Hi 👋 My name is Eemil Aspholm
+Greetings! 👋 My name is Eemil Aspholm
 ==============================
 
 I am studying software development as my minor in LUT University. Currently learning Full Stack development (React, Redux, Node.js, MongoDB, GraphQL and TypeScript)
