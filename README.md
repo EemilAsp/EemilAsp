@@ -3,6 +3,7 @@ Greetings! 👋 My name is Eemil Aspholm
 
 
 M.Sc. at LUT University
+
 Major: Data Analytics in Decision Making
 Minor: Software Engineering and Digital Transformation
 
